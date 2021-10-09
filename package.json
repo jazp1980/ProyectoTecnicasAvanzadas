@@ -1,0 +1,26 @@
+{
+  "name": "proyectotecnicasavanzadas",
+  "version": "1.0.0",
+  "description": "Proyecto Final Tecnicas Avanzadas Automatizacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazp1980/ProyectoTecnicasAvanzadas.git"
+  },
+  "keywords": [
+    "proyecto",
+    "final"
+  ],
+  "author": "Jorge Zamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazp1980/ProyectoTecnicasAvanzadas/issues"
+  },
+  "homepage": "https://github.com/jazp1980/ProyectoTecnicasAvanzadas#readme",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  }
+}
