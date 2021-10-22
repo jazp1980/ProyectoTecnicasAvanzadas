@@ -12,7 +12,13 @@ class MenuPage {
         button.click()
        
     }
-   
+
+    
+    home(){
+        const button = cy.get('[data-test="sidenav-home"]')
+        button.click()
+    }
+    
 }
     
     export default MenuPage
